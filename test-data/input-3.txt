@@ -1,0 +1,3 @@
+# Initialize GT4500 with 0 torpedoes in primary, 1 torpedo in secondary, failure rate 0
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # should fire from the secondary store
